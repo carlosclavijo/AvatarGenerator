@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 1.npg"
+  },
+  {
+    "id": 2,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 2.npg"
+  },
+  {
+    "id": 3,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 3.npg"
+  },
+  {
+    "id": 4,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 4.npg"
+  },
+  {
+    "id": 5,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 5.npg"
+  },
+  {
+    "id": 6,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 6.npg"
+  },
+  {
+    "id": 7,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 7.npg"
+  },
+  {
+    "id": 8,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 8.npg"
+  },
+  {
+    "id": 9,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 9.npg"
+  },
+  {
+    "id": 10,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 10.npg"
+  },
+  {
+    "id": 11,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 11.npg"
+  },
+  {
+    "id": 12,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Glasses 12.npg"
+  }
+]

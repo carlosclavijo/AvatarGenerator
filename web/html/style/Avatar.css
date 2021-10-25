@@ -1,0 +1,84 @@
+body {
+  background-color: black;
+}
+
+#AvatarCreator {
+  width: 100%;
+  height: 100%;
+  display: flex;
+
+}
+
+.Avatar {
+  width: 40%;
+  height: 100%;
+  margin-left: 10%;
+  margin-top: 3%;
+  position: left;
+}
+
+#Avatar, #Mouth {
+  display: flex;
+  object-fit: contain;
+  position: absolute;
+}
+
+#Avatar {
+  width: 60%;
+  height: 100%;
+}
+
+#AvatarContainer {
+  height: 500px;
+  position: relative;
+}
+
+#AvatarContainer, #Colors {
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #3e8e41
+}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.arrow {
+  border-radius: 50%;
+  width: 10%;
+  height:10%;
+}
+
+.arrows {
+  height: 10%;
+}
+
+.buttonContainer {
+  width: 50%;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+#Mouth {
+  width: 18%;
+  margin-top: 20%;
+  margin-left: 23%;
+}

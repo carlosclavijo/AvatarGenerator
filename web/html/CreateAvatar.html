@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Avatar creator</title>
+    <link rel="stylesheet" href="style/Avatar.css">
+    <link rel="stylesheet" href="style/Color.css">
+    <link rel="stylesheet" href="style/Options.css">
+  </head>
+  <body>
+    <div id="AvatarCreator">
+      <div class="Avatar">
+        <div id="AvatarContainer">
+          <img class="Image" id="Avatar" src="../Images/Monsters/Monster 1.png" alt="Monster">
+        </div>
+        <div id="Colors">
+          <div class="rowColors">
+            <div class="divColor" onclick="changeColor('cNormal')">
+              <img class="color cNormal" id="c1" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cBlack')">
+              <img class="color cBlack" id="c2" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cDarkLight')">
+              <img class="color cDarkLight" id="c3" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cWhite')">
+              <img class="color cWhite" id="c4" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cBlue')">
+              <img class="color cBlue" id="c5" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cBlue2')">
+              <img class="color cBlue2" id="c6" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cRed')">
+              <img class="color cRed" id="c7" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cRed2')">
+              <img class="color cRed2" id="c8" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cYellow')">
+              <img class="color cYellow" id="c9" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cYellow2')">
+              <img class="color cYellow2" id="c10" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cGreen')">
+              <img class="color cGreen" id="c11" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cPink')">
+              <img class="color cPink" id="c12" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+            <div class="divColor" onclick="changeColor('cOrange')">
+              <img class="color cOrange" id="c13" src="../Images/Monsters/Monster 11.png" alt="Ball">
+            </div>
+          </div>
+        </div>
+        <div class="buttonContainer">
+          <button class="button">Save</button>
+        </div>
+      </div>
+      <div id="Options">
+        <div class="row" id="row1">
+          <div class="option" onclick="avatar('Monster', 1)">
+            <img class="imgOption" id="option1" src="../Images/Monsters/Monster 1.png" alt="Monster 1" onError = "notExistImage(1)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 2)">
+            <img class="imgOption" id="option2" src="Monsters/Monster 2.png" alt="Monster 2" onError = "notExistImage(2)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 3)">
+            <img class="imgOption" id="option3" src="Monsters/Monster 3.png" alt="Monster 3" onError = "notExistImage(3)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 4)">
+            <img class="imgOption" id="option4" src="Monsters/Monster 4.png" alt="Monster 4" onError = "notExistImage(4)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 5)">
+            <img class="imgOption" id="option5" src="Monsters/Monster 5.png" alt="Monster 5" onError = "notExistImage(5)">
+          </div>
+        </div>
+        <div class="row" id="row2">
+          <div class="option" onclick="avatar('Monster', 6)">
+            <img class="imgOption" id="option6" src="Monsters/Monster 6.png" alt="Monster 6" onError = "notExistImage(6)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 7)">
+            <img class="imgOption" id="option7" src="Monsters/Monster 7.png" alt="Monster 7" onError = "notExistImage(7)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 8)">
+            <img class="imgOption" id="option8" src="Monsters/Monster 8.png" alt="Monster 8" onError = "notExistImage(8)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 9)">
+            <img class="imgOption" id="option9" src="Monsters/Monster 9.png" alt="Monster 9" onError = "notExistImage(9)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 10)">
+            <img class="imgOption" id="option10" src="Monsters/Monster 10.png" alt="Monste 10" onError = "notExistImage(10)">
+          </div>
+        </div>
+        <div class="row" id="row3">
+          <div class="option" onclick="avatar('Monster', 11)">
+            <img class="imgOption" id="option11" src="Monsters/Monster 11.png" alt="Monster 11" onError = "notExistImage(11)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 12)">
+            <img class="imgOption" id="option12" src="Monsters/Monster 12.png" alt="Monster 12" onError = "notExistImage(12)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 13)">
+            <img class="imgOption" id="option13" src="Monsters/Monster 13.png" alt="Monster 13" onError = "notExistImage(13)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 14)">
+            <img class="imgOption" id="option14" src="Monsters/Monster 14.png" alt="Monster 14" onError = "notExistImage(14)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 15)">
+            <img class="imgOption" id="option15" src="Monsters/Monster 15.png" alt="Monster 15" onError = "notExistImage(15)">
+          </div>
+        </div>
+        <div class="row" id="row4">
+          <div class="option" onclick="avatar('Monster', 16)">
+            <img class="imgOption" id="option16" src="Monsters/Monster 16.png" alt="Monster 16" onError = "notExistImage(16)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 17)">
+            <img class="imgOption" id="option17" src="Monsters/Monster 17.png" alt="Monster 17" onError = "notExistImage(17)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 18)">
+            <img class="imgOption" id="option18" src="Monsters/Monster 18.png" alt="Monster 18" onError = "notExistImage(18)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 19)">
+            <img class="imgOption" id="option19" src="Monsters/Monster 19.png" alt="Monster 19" onError = "notExistImage(19)">
+          </div>
+          <div class="option" onclick="avatar('Monster', 20)">
+            <img class="imgOption" id="option20" src="Monsters/Monster 20.png" alt="Monster 20" onError = "notExistImage(20)">
+          </div>
+        </div>
+        <div class="arrows">
+          <div class="leftArrow">
+            <button class="button arrow" onclick="previous()" type="button" name="button"><</button>
+          </div>
+          <div class="rightArrow">
+            <button class="button arrow" onclick="next('Mouth')" type="button" name="button">></button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="js/jquery-3.3.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/Avatar.js"></script>
+  </body>
+</html>

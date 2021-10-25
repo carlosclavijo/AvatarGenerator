@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 1.npg"
+  },
+  {
+    "id": 2,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 2.npg"
+  },
+  {
+    "id": 3,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 3.npg"
+  },
+  {
+    "id": 4,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 4.npg"
+  },
+  {
+    "id": 5,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 5.npg"
+  },
+  {
+    "id": 6,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 6.npg"
+  },
+  {
+    "id": 7,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 7.npg"
+  },
+  {
+    "id": 8,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 8.npg"
+  },
+  {
+    "id": 9,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 9.npg"
+  },
+  {
+    "id": 10,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 10.npg"
+  },
+  {
+    "id": 11,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 11.npg"
+  },
+  {
+    "id": 12,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 12.npg"
+  },
+  {
+    "id": 13,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 13.npg"
+  },
+  {
+    "id": 14,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 14.npg"
+  },
+  {
+    "id": 15,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 15.npg"
+  },
+  {
+    "id": 16,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 16.npg"
+  },
+  {
+    "id": 17,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 17.npg"
+  },
+  {
+    "id": 18,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 18.npg"
+  },
+  {
+    "id": 19,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 19.npg"
+  },
+  {
+    "id": 20,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Mouth 20.npg"
+  }
+]

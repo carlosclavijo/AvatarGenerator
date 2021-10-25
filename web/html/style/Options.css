@@ -1,0 +1,34 @@
+#Options {
+  width: 45%;
+  height: 100%;
+  margin-top: 5%;
+}
+
+.row {
+  width: 100%;
+  display:flex;
+  margin-top: 2%;
+}
+
+.option {
+  width: 12%;
+  height: 12%;
+  margin-left: 3%;
+  float: left;
+  background-color: white;
+  border-radius: 25px;
+  padding:2%;
+  border: 3px solid green;
+}
+
+.option:hover {
+  border: 3px solid red;
+  width: 20%;
+  height: 25%;
+}
+
+.imgOption {
+  width: 80%;
+  height: 80%;
+  object-fit: contain;
+}

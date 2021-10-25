@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Wallpaper 1.npg",
+    "filter": ""
+  },
+  {
+    "id": 2,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Wallpaper 2.npg",
+    "filter": ""
+  },
+  {
+    "id": 3,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Wallpaper 3.npg",
+    "filter": ""
+  },
+  {
+    "id": 4,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Wallpaper 4.npg",
+    "filter": ""
+  },
+  {
+    "id": 5,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Wallpaper 5.npg",
+    "filter": ""
+  }
+]

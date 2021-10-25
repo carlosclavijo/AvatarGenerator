@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "idBase": null,
+    "idBody": 1,
+    "idWallpaper": 1,
+    "idEyes": 1,
+    "idMouth": 1,
+    "idEyeBrows": 1,
+    "idMoustache": 1,
+    "idGlasses": 1,
+    "idHair": 1,
+    "idHat": 1,
+    "idBowTie": 1
+  },
+  {
+    "id": 2,
+    "idBase": null,
+    "idBody": 2,
+    "idWallpaper": 2,
+    "idEyes": 2,
+    "idMouth": 2,
+    "idEyeBrows": 2,
+    "idMoustache": 2,
+    "idGlasses": 2,
+    "idHair": 2,
+    "idHat": 2,
+    "idBowTie": 2
+  },{
+    "id": 3,
+    "idBase": null,
+    "idBody": 3,
+    "idWallpaper": 3,
+    "idEyes": 3,
+    "idMouth": 3,
+    "idEyeBrows": 3,
+    "idMoustache": 3,
+    "idGlasses": 3,
+    "idHair": 3,
+    "idHat": 3,
+    "idBowTie": 3
+  }
+]

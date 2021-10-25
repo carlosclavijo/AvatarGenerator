@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Hair 1.npg",
+    "filter": ""
+  },
+  {
+    "id": 2,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Hair 2.npg",
+    "filter": ""
+  },
+  {
+    "id": 3,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Hair 3.npg",
+    "filter": ""
+  },
+  {
+    "id": 4,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Hair 4.npg",
+    "filter": ""
+  },
+  {
+    "id": 5,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Hair 5.npg",
+    "filter": ""
+  },
+  {
+    "id": 6,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Hair 6.npg",
+    "filter": ""
+  },
+  {
+    "id": 7,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Hair 7.npg",
+    "filter": ""
+  },
+  {
+    "id": 8,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Hair 8.npg",
+    "filter": ""
+  },
+  {
+    "id": 9,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Hair 9.npg",
+    "filter": ""
+  },
+  {
+    "id": 10,
+    "posX": 10,
+    "posY": 10,
+    "width": 25,
+    "height": 25,
+    "zIndex": 0,
+    "source": "Hair 10.npg",
+    "filter": ""
+  }
+]
